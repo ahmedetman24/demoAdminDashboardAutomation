@@ -1,0 +1,7 @@
+<suite name = "Regression Suite">
+    <test name = "All Scenarios">
+        <classes>
+            <class name ="Testcases.addAttendee"></class>
+        </classes>
+    </test>
+</suite>
